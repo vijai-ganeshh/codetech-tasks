@@ -1,7 +1,7 @@
-# codtech-tasks
-Name: Giduthuri Khushalha
+# codetech-tasks
+Name: J. Vijai Ganeshh
 
-Intern ID: CTIS6134
+Intern ID: CTIS6059
 
 Domain: Artificial Intelligence
 
